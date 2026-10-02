@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "815bf8b56546dfbd21401ab9",
+  "owner": "enmxfjqtkw",
+  "repo": "page-ec0c55dadee33d3c803e4e34",
+  "title": "矢矧网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ec0c55dadee33d3c803e4e34",
+      "a": "矢矧网络",
+      "b": "",
+      "entity": "矢矧网络",
+      "brand": "矢矧网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8a6d99d66f4d6a911fa617678893343c805fecd3998e0d9e28945b5fc84e9fda",
+      "content": {
+        "keyword1": "矢矧网络",
+        "keyword2": "",
+        "primary_entity": "矢矧网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "矢矧网络是专注稳定高速的网络加速服务商，提供机场订阅、VPN梯子与全平台客户端官方下载，支持流媒体解锁、游戏加速及多设备同时在线，欢迎访问官网获取最新节点与配置教程。",
+          "AI_DESCRIPTION": "矢矧网络是专注稳定高速的网络加速服务商，提供机场订阅、VPN梯子与全平台客户端官方下载，支持流媒体解锁、游戏加速及多设备同时在线，欢迎访问官网获取最新节点与配置教程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#081828;color:#e2f0f5;font-size:16px;line-height:1.7;overflow-x:hidden}a{color:#1ee3d8;text-decoration:none}header{background:#0a1f38;padding:12px 14px;border-bottom:2px solid #14c9c0}nav{display:flex;flex-wrap:wrap;gap:8px 12px;justify-content:center}nav a{color:#9ee8e2;padding:6px 8px;font-size:.95rem}main{max-width:960px;margin:0 auto;padding:12px 16px 40px}h1{font-size:1.85rem;color:#fff;text-align:center;margin:22px 0 8px}h2{font-size:1.38rem;color:#20e3d0;margin:28px 0 12px;border-left:4px solid #20e3d0;padding-left:10px}h3{font-size:1.12rem;color:#a8e6e0;margin:14px 0 8px}.hero{text-align:center;padding:8px 0 24px}.hero p{color:#b7d8e4;font-size:1.02rem}p,li{margin-bottom:10px}.muted{color:#9cb8c6;font-size:.95rem}.plans{display:flex;flex-direction:column;gap:14px;margin:16px 0 8px}.plan{background:#0d2a4a;border:1px solid #1a4a6e;border-radius:8px;padding:18px 16px}.plan.featured{border:2px solid #20e3d0;background:#0e3358}.badge{display:inline-block;background:#20e3d0;color:#062018;font-size:.78rem;padding:2px 8px;border-radius:4px;margin-bottom:8px;font-weight:700}.price{font-size:1.45rem;color:#20e3d0;margin:6px 0}.plan ul{list-style:none;margin-top:10px}.plan li{padding:6px 0;border-bottom:1px dashed #1c4a6a}.plan li:last-child{border-bottom:none}.step{background:#0c243f;border-radius:8px;padding:14px 16px;margin:12px 0;border:1px solid #163a5c}.num{color:#20e3d0;font-weight:700;margin-right:6px}details{background:#0c243f;margin:8px 0;padding:10px 14px;border-radius:6px;border:1px solid #163a5c}summary{font-weight:600;color:#7ee8e0}details p{margin-top:8px;color:#d5eaf1}.dl-box{background:#0d2a4a;border-radius:8px;padding:14px;margin:10px 0;border:1px solid #1a4a6e}footer{background:#061320;padding:24px 16px 32px;border-top:2px solid #14c9c0;font-size:.92rem}.map a,.friends a{display:inline-block;margin:4px 10px 4px 0;color:#9ee8e2}.ads{background:#0d2a4a;border:1px solid #1a4a6e;border-radius:8px;padding:12px 14px;margin:14px 0;color:#c5e4ee}@media(min-width:720px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}.alt-left{margin-right:6%}.alt-right{margin-left:6%;text-align:right}.alt-right h3,.alt-right p{text-align:right}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><div class=\"hero\"><h1>矢矧网络</h1><p>官方网站 · 机场订阅 · VPN 梯子网络加速 · 多端客户端安全下载</p></div><section id=\"intro\"><h2>品牌简介</h2><p>矢矧网络面向需要稳定跨境连通的个人与团队，以机场订阅方式提供加密传输、智能分流和多协议接入。我们把官方网站作为唯一信息与下载入口，强调可核对的套餐说明、清晰的配置流程，以及可持续维护的节点池，而不是一次性的临时线路。</p><p>服务覆盖日常网页访问、流媒体播放、远程协作和游戏加速等需求。基础线路满足常用解锁，旗舰与团队线路补充 IPLC 专线与更高并发。无论你使用电脑、手机还是路由器，都可以通过官网给出的客户端完成订阅导入。请始终从矢矧网络官方网站获取安装包与订阅地址，避免来路不明的镜像。</p><p class=\"muted\">本页集中说明套餐、使用场景、逐步配置方法和常见问题，方便你对照完成开通与日常维护。</p></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下为官网当前公开套餐。年付可锁定全年单价，适合长期使用机场订阅的用户。流量在对应周期内有效，设备数按同时在线计算。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">官网主推</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"muted\">节点覆盖香港、日本、新加坡、美国及欧洲等常用区域。具体可用线路以用户中心实时列表为准，高峰期我们优先保障旗舰与团队线路的带宽。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"step alt-left\"><h3>流媒体与内容访问</h3><p>观看国际影视与音乐平台时，可选用支持原生解锁的节点。旗舰版强调全节点流媒体可用性，减少地区限制带来的反复切换。若遇个别节目仍提示地区，可在客户端更换同区域备用节点后重试。</p></div><div class=\"step alt-right\"><h3>远程办公与云协作</h3><p>视频会议、文档同步和代码仓库访问对延迟与稳定性更敏感。建议开启系统代理或 TUN 模式，让会议软件与浏览器走同一套分流规则，避免部分域名直连导致的中途断开。</p></div><div class=\"step alt-left\"><h3>游戏加速</h3><p>旗舰版提供 IPLC 专线优化，适合对丢包敏感的对战与登录。请将游戏进程加入代理列表，并优先选择标注游戏或低延迟的节点，而不是任意流量最大的线路。</p></div><div class=\"step alt-right\"><h3>学术检索与多设备出行</h3><p>查阅论文站点、公开数据集或在差旅途中切换手机与笔记本时，同一订阅可在套餐设备上限内共用。团队版适合工作室统一管理路由与设备配额。</p></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>矢矧网络把开通到连上节点拆成可核对的步骤。请按顺序完成，遇到导入失败时回到官网用户中心重新复制订阅，不要混用过期链接。</p><div class=\"step alt-left\"><h3><span class=\"num\">1</span>打开官网并确认身份</h3><p>仅通过矢矧网络官方网站登录。核对套餐名称、流量与设备数后下单。支付完成后，用户中心会出现订阅地址与到期时间，这是后续所有客户端的唯一来源。</p></div><div class=\"step alt-right\"><h3><span class=\"num\">2</span>选择并下载对应客户端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端；Android 使用兼容订阅的 Meta 内核应用；iOS 使用支持机场订阅的商店应用。下载请使用本页「客户端下载」中的官方说明，安装后不要开启来路不明的远程配置。</p></div><div class=\"step alt-left\"><h3><span class=\"num\">3</span>复制机场订阅并导入</h3><p>在用户中心复制订阅 URL。打开客户端的订阅或配置管理，选择从 URL 更新，粘贴后保存。首次导入会拉取节点列表，请等待完成再连接，避免空配置。</p></div><div class=\"step alt-right\"><h3><span class=\"num\">4</span>选择节点并检查分流</h3><p>日常浏览可选自动或延迟较低的节点；流媒体选解锁组；游戏选 IPLC 或游戏优化组。确认系统代理已开启，必要时允许虚拟网卡权限，使 UDP 与游戏流量一并走加速通道。</p></div><div class=\"step alt-left\"><h3><span class=\"num\">5</span>日常更新与工单</h3><p>建议在客户端中开启定时更新订阅。节点异常时先更新再切换线路。旗舰与团队用户可通过官网工单提交测速与错误截图，便于线路侧排查。流量将尽或临近到期时，在同一账号续费即可延续配置，无需重新导入。</p></div></section><section id=\"download\"><h2>客户端官方下载</h2><p>矢矧网络不绑定单一闭源安装包，而是兼容主流机场订阅客户端。请把官网当作核对渠道：确认应用名称、来源说明后再安装。下列入口均为页面锚点指引，实际文件以官网下载中心当时提供的版本为准。</p><div class=\"dl-box\"><h3>桌面端 Windows / macOS / Linux</h3><p>推荐 Clash Verge、FlClash 或同类图形客户端。导入订阅后可在规则中启用分流。路由器与 NAS 用户可使用兼容 Clash / sing-box 的订阅转换说明。<a href=\"#download\">前往桌面端下载说明</a></p></div><div class=\"dl-box\"><h3>Android</h3><p>使用支持订阅的 Clash Meta 应用，开启 VPN 权限后连接。建议关闭省电对应用的限制，以免后台断开。<a href=\"#download\">前往 Android 下载说明</a></p></div><div class=\"dl-box\"><h3>iOS 与多设备</h3><p>可使用 Shadowrocket、Stash 等支持机场订阅的应用。同一账号请遵守套餐同时在线台数。团队版可配合企业路由做统一出口。<a href=\"#download\">前往移动端说明</a></p></div><p class=\"muted\">若安装后无法更新订阅，先检查系统时间、剪贴板是否完整复制 URL，再确认套餐仍在有效期内。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何从矢矧网络官网开通机场订阅？</summary><p>访问官网套餐区选择基础版、旗舰版或团队版，确认月付或年付后完成支付。用户中心会生成订阅地址，复制后即可在客户端导入。年付仅改变结算周期，配置方式与月付相同。</p></details><details><summary>支持哪些设备？客户端要去哪里下载？</summary><p>电脑、手机、平板及部分路由器均可。Windows、macOS、Android、iOS 都有对应客户端。请通过本页客户端下载说明或官网指定渠道获取，不要使用来路不明的修改版，以免订阅泄露或无法更新节点。</p></details><details><summary>订阅链接导入失败或节点为空怎么办？</summary><p>回到官网重新复制完整 URL，确认没有多余空格。在客户端选择「从 URL 导入」并等待更新结束。若仍为空，先检查套餐是否到期或流量用尽，再更换网络环境后重试。旗舰与团队用户可提交工单。</p></details><details><summary>流量如何计算？用尽或到期如何续费？</summary><p>基础版每月 100GB，旗舰版 300GB，团队版 1000GB，在套餐周期内有效。同时在线设备分别不超过 3、5、20 台。流量将尽或临近到期时，在同一账号续费或升级即可，原有订阅一般可继续使用，只需在客户端更新一次。</p></details><details><summary>流媒体无法播放或游戏延迟高如何处理？</summary><p>先更新订阅，再切换到解锁组或 IPLC 游戏优化节点，并开启 TUN / 增强模式。浏览器可尝试清理站点缓存。若仅个别节目失败，更换同区域备用节点。持续异常时把节点名称、时间和测速结果发给客服。</p></details><details><summary>矢矧网络如何保障使用安全？需要注意什么？</summary><p>请只通过官方网站登录并下载客户端，开启系统代理时留意分流规则，避免把局域网管理地址误送入代理。我们采用通用加密协议并尽量减少不必要日志。请遵守你所在地区的法律法规，将服务用于正当的网络加速与访问需求。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></p><div class=\"ads\">合作推广：企业专线、云主机与跨境协作方案可与矢矧网络团队版路由策略配合使用，详情通过官网客服咨询。</div><h3>友情链接</h3><p class=\"friends\"><a href=\"#\">网络加速资讯</a><a href=\"#\">流媒体区域说明</a><a href=\"#\">客户端兼容列表</a><a href=\"#\">路由规则入门</a><a href=\"#\">工单提交指引</a></p><p>© 矢矧网络 官方网站。本站介绍机场订阅、VPN 梯子网络加速与客户端官方下载信息，内容与套餐以官网实时展示为准。</p></footer>",
+          "hash": "88f3003392a78bd4fb0142f59f67de1252aa2312a7d91d311e00b98c5bac2688",
+          "seo": {
+            "title": "矢矧网络官网 - VPN梯子与机场订阅 | 网络加速器客户端官方下载",
+            "keywords": "矢矧网络,矢矧网络官网,矢矧VPN,矢矧机场,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官方下载,IPLC加速",
+            "description": "矢矧网络是专注稳定高速的网络加速服务商，提供机场订阅、VPN梯子与全平台客户端官方下载，支持流媒体解锁、游戏加速及多设备同时在线，欢迎访问官网获取最新节点与配置教程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jfpwdec.cn",
+    "host": "p-bc3e8bcb0d.jfpwdec.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jfpwdec.cn",
+      "url": "https://jfpwdec.cn/",
+      "label": "BoomCloud",
+      "apex": "jfpwdec.cn",
+      "kind": null,
+      "identity": "mp4svvry5/page-e5296ddd4048986ab483145a"
+    },
+    {
+      "host": "cqytk.cn",
+      "url": "https://cqytk.cn/",
+      "label": "矢矧网络",
+      "apex": "cqytk.cn",
+      "kind": null,
+      "identity": "peyrdlgj/page-04ba6b62b5df7313ee0b8bb8"
+    },
+    {
+      "host": "fsyxs.cn",
+      "url": "https://fsyxs.cn/",
+      "label": "矢矧网络",
+      "apex": "fsyxs.cn",
+      "kind": null,
+      "identity": "wtpbihbpe/page-320d2c1ee7dea0d608de329b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8eccf81984c021a60bef4d85a7e87fccb64d69f6069e2b39cd7e22d21e9dfec8",
+    "sitemap.xml": "a2b58a9d4724596847e54157e2638356f3d6f40a9a7dd24f5a8880627a95e4d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d39b835a7bb72c5827c1032c15385c93ee78ba1e4dfa30e762e55b96f1c490b1",
+    "robots.txt": "4c82cbe611f2b718a4934ac34ccb1a2f5fd608fe441418b128e63e5c81bf54a1",
+    "e5d537aa1ca936c914aba8740ce29bc0.txt": "979da465311390e975e9d6dcb3a529dcfc1b78f8976b0118b49f664836677341"
+  },
+  "revision": "1d3e1457893bfd52309f65bb0c23ce00978e2cb98fffcce11cea17c714a68c2b"
+}
